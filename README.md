@@ -17,6 +17,7 @@ Make sure to change the following commands of .config/i3/config:
     Line 230: exec_always picom --config /home/adrynax/.config/picom/picom.conf (change adrynax to (YOURUSERNAME))
 
 Apps Needed:
+    
     Feh
     Picom
     Polybar
@@ -24,6 +25,7 @@ Apps Needed:
     Alacritty
 
 Recommended apps:
+    
     yay
     Xorg-Xrandr
     Arandr
@@ -31,6 +33,7 @@ Recommended apps:
     locate
 
 Personal Apps I use:
+    
     Chromium
     Ranger
     Fontforge?
