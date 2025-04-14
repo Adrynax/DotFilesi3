@@ -2,6 +2,7 @@
 Personal Dotfiles for i3
 
 To use these, (please don't i'm very inexperienced with Linux these dot file are prob junk) just copy the files in the directories indicated on the repo
+
 *.config is in /home/(YOURUSERNAME)/.config
 
 Make sure to change the following commands of .config/i3/config:
