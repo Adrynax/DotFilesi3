@@ -42,6 +42,7 @@ Personal Apps I use:
     Pipes.sh
     Cbonsai
     Htop
+    tty-clock
 
 There are prob other apps I frogot to write, but these are the most important ones
 
